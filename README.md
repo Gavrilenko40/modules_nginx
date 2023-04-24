@@ -1,2 +1,2 @@
 # modules_nginx
-nginx source code with modules
+just nginx source code with modules for other project
